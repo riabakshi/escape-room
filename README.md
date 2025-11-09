@@ -29,17 +29,25 @@ After decryption, the message is "I am finally"
 The picture uses a pigpen cipher. The code can be found online and is used to decrypt the symbols on the right. 
 After decryption, the message is "done with".
 
+![Picture Image](screenshots/picture.png)
+
 ### TV
 The blinking on the TV corresponds to a morse code pattern. After decoding the blinks, you end up with "CSI".
 
+![TV Image](screenshots/tv.png)
+
 ### Fireplace
 After clicking on the fire, it slowly dies out, leaving the user with the last piece of the puzzle: an exclamation point. 
+
+![Fireplace Image](screenshots/fire.png)
 
 ### Window
 The above clues are already in the correct order. The window tells users what the correct order of clues is. 
 After clicking on the window, there is a little animation that leads to a rainbow with the colors out of order: 
 red, blue, black, orange. These colors correspond to the color of each object with a clue and tell the user 
 the order of the clues for the final passkey. 
+
+![Window Image](screenshots/window.png)
 
 ### Phone
 The phone function can give the user clues to the meaning of the clues. The user must type the corresponding
@@ -52,9 +60,11 @@ in the python terminal.
 * 5625: Lock
 * 3473 or 347375223: Fireplace
 
+![Phone Image](screenshots/phone.png)
+
 ### Lock
 <<<<<<< Updated upstream
 To finally exit the escape room, enter the passkey "i am finally done with csi!" in the python terminal. 
-=======
-To finally exit the escape room, enter the passkey "i am finally done with csi!" in the python terminal. 
->>>>>>> Stashed changes
+
+![Lock Image](screenshots/lock.png)
+
