@@ -6,6 +6,8 @@ This GitHub page was made in 2025.
 ## Run this project!
 Run the main.py script and let the game begin.
 
+![Outside House Image](screenshots/outside.png)
+
 ## How to play
 The user must first enter the house, then click on various objects within the house to gain part of the phrase required to 
 exit the escape room. Unlocking these clues require users to call upon their knowledge of various types of ciphers.
