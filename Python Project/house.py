@@ -251,7 +251,7 @@ def inside_house1():
     picture.setWidth(20)
 
     #pig image from https://pixabay.com/vectors/pig-animal-comic-comic-drawing-3245668/
-    pigpen = Image(Point(500, 200), "Python Project\images\pigpen.png")
+    pigpen = Image(Point(500, 200), "images/pigpen.png")
     pigpen.draw(win)
 
     #chair

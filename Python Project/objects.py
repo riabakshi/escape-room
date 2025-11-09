@@ -164,7 +164,7 @@ def picture_function():
 
 #pig picture from https://pixabay.com/vectors/pig-animal-comic-comic-drawing-3245668/
 #picture created in google drawings
-    pigpen_cipher = Image(Point(600,400), "Python Project\images\pigpen_cipher.png")
+    pigpen_cipher = Image(Point(600,400), "images/pigpen_cipher.png")
     pigpen_cipher.draw(win)
 
     #home button
@@ -511,7 +511,7 @@ def tv_function():
 
 #glitch
 #image from https://www.sketchappsources.com/free-source/3459-tv-glitch-vector-sketch-freebie-resource.html
-    glitch = Image(Point(600,319), "Python Project\images\glitch.png")
+    glitch = Image(Point(600,319), "images/glitch.png")
 #morse code from https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg
 
     #instructions
@@ -533,7 +533,7 @@ def tv_function():
     
 
     #morse code images
-    morse_code = Image(Point(900, 700), "Python Project\images\morse_code.png")
+    morse_code = Image(Point(900, 700), "images/morse_code.png")
     morse_code.draw(win)
     '''
     This next part uses the time module to create a glitch pattern.
@@ -757,7 +757,7 @@ def phone_function():
     botCir1.draw(win)
 
     #phone numbers
-    phone_num = Image(Point(400,400),"Python Project\images\phone_num.png")
+    phone_num = Image(Point(400,400),"images/phone_num.png")
     phone_num.draw(win)
 
     #instructions

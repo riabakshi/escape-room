@@ -50,4 +50,8 @@ in the python terminal.
 * 3473 or 347375223: Fireplace
 
 ### Lock
+<<<<<<< Updated upstream
 To finally exit the escape room, enter the passkey "i am finally done with csi!" in the python terminal. 
+=======
+To finally exit the escape room, enter the passkey "i am finally done with csi!" in the python terminal. 
+>>>>>>> Stashed changes
