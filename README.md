@@ -22,7 +22,7 @@ the long hand is on. This means the letter G corresponds with the letter B.
 
 After decryption, the message is "I am finally"
 
-![Clock Image](screenshots/clock.png)
+![Clock Image](escape-room/screenshots/clock.png)
 
 
 ### Picture
