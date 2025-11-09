@@ -22,6 +22,9 @@ the long hand is on. This means the letter G corresponds with the letter B.
 
 After decryption, the message is "I am finally"
 
+![Clock Image](screenshots/clock.png)
+
+
 ### Picture
 The picture uses a pigpen cipher. The code can be found online and is used to decrypt the symbols on the right. 
 After decryption, the message is "done with".
